@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+![alt text](https://github.com/alwinfau/website-cafe-template/blob/master/public/dark-mode.png?raw=true)
+![alt text](https://github.com/alwinfau/website-cafe-template/blob/master/public/light-mode.png?raw=true)
+
 ## Getting Started
 
 First, run the development server:
